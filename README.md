@@ -22,12 +22,6 @@ react/vite, node.js/express, mysql on railway, jest
 - owned the point of sale and parking systems; built and deployed 4 employee dashboards
 - fixed production bugs in the db connection pooling and transaction tables
 
-**etl pipeline + dashboard** · team project\
-api → postgresql etl with a streamlit dashboard; i handled the docker setup
-
-**[htcc website](https://houstontamilcatholics.org)** · volunteer\
-maintain the houston tamil catholic community's website and set up its ai chat assistant
-
 ## 💼 experience
 **waste management** · software engineer intern (summer 2026)\
 kotlin/android field app: fixed a crash/sync bug, wrote requirements and user stories, and built a qe test plan with 100% requirement-to-test-case coverage
